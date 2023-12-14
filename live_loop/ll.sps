@@ -3,5 +3,6 @@
 # point_index: 11
 # --
 live_loop : do
-  # stop
+  stop
+
 end
